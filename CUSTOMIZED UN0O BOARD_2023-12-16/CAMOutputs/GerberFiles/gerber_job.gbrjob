@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-12-16T13:59:43Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "CUSTOMIZED UN0O BOARD"
+        },
+        "Owner": "subham pati <patisubham206@gmail.com>",
+        "Size": {
+            "X": 80.264,
+            "Y": 50.038
+        }
+    }
+}
